@@ -4,3 +4,4 @@ gunicorn
 leaflet
 requests
 streamlit
+streamlit_folium
